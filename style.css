@@ -60,3 +60,11 @@ body {
 .footer a{
     color: grey;
 }
+
+.header{
+  justify-content: space-between;
+}
+
+.header > * {
+  padding: 18px;
+}
